@@ -1,7 +1,7 @@
 # MyTradeGuard - Professional Trading Toolkit
 
 <p align="center">
-  <img src="https//mytradeguard.com/images/logo.png" alt="MyTradeGuard Logo" width="150"/>
+  <img src="https://mytradeguard.com/images/logo.png" alt="MyTradeGuard Logo" width="150"/>
 </p>
 
 <h3 align="center">Your Co-Pilot for Disciplined & Focused Trading</h3>
